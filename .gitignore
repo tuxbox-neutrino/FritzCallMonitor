@@ -1,5 +1,6 @@
 # automake stuff
-Makefile
+# NOTE: Makefile is deliberately NOT ignored - it is the maintained,
+# hand-written build of this plugin, not an automake artefact.
 autom4te.cache
 *.in
 aclocal.m4
